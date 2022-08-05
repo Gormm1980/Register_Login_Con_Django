@@ -21,6 +21,9 @@ python3 manage.py runserver
 # libraries and frameworks intalled
 
 Rest_framework => pip3 install restframework,
+
 Rest_framework_simpleJWT => pip3 install djangorestframework-simplejwt,
+
 drf-yasg => pip3 install drf-yasg, ESTO ES PARA LA DOCUMENTACIÓN SWAGGER
+
 django_filter => pip3 install django-filter
