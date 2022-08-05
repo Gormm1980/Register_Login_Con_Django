@@ -18,7 +18,7 @@ python3 manage.py migrate
 
 python3 manage.py runserver
 
-#libraries and frameworks intalled
+# libraries and frameworks intalled
 
 Rest_framework => pip3 install restframework,
 Rest_framework_simpleJWT => pip3 install djangorestframework-simplejwt,
