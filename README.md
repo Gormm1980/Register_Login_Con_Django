@@ -1,16 +1,26 @@
 # Register_Login_Con_Django
 
-Create virtual enviroment
+# Create virtual enviroment
+
 python3 -m venv ./env/{name}
-Set the virtual enviroment
+
+
+# Set the virtual enviroment
+
 source ./env/offer/bin/activate
-Create migrations
+
+# Create migrations
+
 python3 manage.py makemigrations
 python3 manage.py migrate
-run server
+
+# run server
+
 python3 manage.py runserver
-libraries and frameworks intalled
+
+#libraries and frameworks intalled
+
 Rest_framework => pip3 install restframework,
 Rest_framework_simpleJWT => pip3 install djangorestframework-simplejwt,
-drf-yasg => pip3 install drf-yasg,
+drf-yasg => pip3 install drf-yasg, ESTO ES PARA LA DOCUMENTACIÓN SWAGGER
 django_filter => pip3 install django-filter
