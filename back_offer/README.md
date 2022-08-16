@@ -64,7 +64,7 @@ INSTALLED_APPS = [
 
 
 
-### Librerias a instalar
+# Librerias adicionales a instalar
 
 - drf-yasg => pip3 install drf-yasg,
 - django_filter => pip3 install django-filter
